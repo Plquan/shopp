@@ -1,0 +1,48 @@
+#footer {
+    width: 100%;
+    background:rgba(231, 228, 228, 0.79);
+    height: 322px;
+    margin-top:90px;
+    padding:0px 63px;
+    padding-top:57px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#footer .box {
+    width: 250px;
+    color:#362f2f;
+}
+
+#footer .box .quick-menu {
+    margin-top:40px;
+
+}
+
+
+#footer .box .quick-menu .item{
+    margin-bottom:12px;
+
+}
+#footer .box .quick-menu ,.item a{
+    color:#5e5858;
+    text-decoration: none;
+}
+
+
+
+#footer .box form input {
+    width: 294px;
+    height: 42px;
+    padding-left:20px;
+    color:#7971ea;
+    margin-top:30px;
+}
+
+#footer .box form button {
+    background:#7971ea;
+    width: 163px;
+    height: 38px;
+    margin-top:29px;
+    color:#fff;
+}

@@ -1,0 +1,27 @@
+#bm{
+display: flex;
+}
+#bm button{
+    width: 35px;
+    height: 35px;
+    outline: none;
+    background: none;
+    border: 1px solid #ececec;
+    cursor: pointer;
+}
+#bm button:hover{
+background-color: #ececec;
+}
+
+#bm button svg{
+    color: #909090;
+}
+#bm button:hover svg{
+    color: #4f4f4f;
+}
+
+#bm #amount{
+    width: 40px;
+    text-align: center;
+    border: 1px solid #ececec;
+}
